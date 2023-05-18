@@ -25,7 +25,7 @@ const Display = () => {
   }, []);
 
   return (
-    <div className="flex items-center text-[26rem] justify-center w-full h-screen">
+    <div className="flex items-center text-[20rem] justify-center w-full h-screen">
       {text}
     </div>
   );
